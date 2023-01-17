@@ -44,7 +44,7 @@ const ServicesSection = () => {
           </div>
         </div>
       </div>
-      <img src={home2} />
+      <img src={home2} alt="Professional Camera Equipment" />
     </div>
   );
 };
